@@ -256,7 +256,7 @@ docker run -p 8080:3000 aiostreams
 
 #### Docker Compose 
 
-Have a look at this post which contains a docker compose file with MediaFlow Proxy, and AIOStreams configured with Warp (to get around Torrentio blocks on some VPSs):
+Have a look att this post which contains a docker compose file with MediaFlow Proxy, and AIOStreams configured with Warp (to get around Torrentio blocks on some VPSs):
  
 - https://www.reddit.com/r/StremioAddons/comments/1icdnos/thinking_of_selfhosting_aiostreams_dont_bother/
 
